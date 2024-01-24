@@ -35,16 +35,19 @@ walking my dog (Bert), and learning in general.
 
 #### CODING SKILLS:
 
-Languages: Python, Java, C, R \
-RDBMS: SQL \
+Languages: Python, Java, C, R, SQL \
 Platforms/Tools: AWS, Docker, Kubernetes \
 Libraries: SciPy, NumPy, Pandas, Scikit-learn, Statsmodels, Selenium, PyTorch \
 Paradigms: OOP/SOLID
 
-#### ACADEMIC DISCIPLINES:
+#### ACADEMICS:
 
-Computer Science (primary focus in software engineering and data science) \
-Mathematical Sciences (focus on financial applications)
+Coursework: Machine Learning, Neural Networks, Big Data Mining, Linear Algebra, Real Analysis, Natural Language
+Processing, Stochastic Modeling, Quantitative Trading & Algorithmic Strategies
+
+#### OTHER:
+
+CFA Charterholder (2019 designation)
 
 
 
