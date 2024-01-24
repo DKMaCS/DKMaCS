@@ -35,15 +35,15 @@ walking my dog (Bert), and learning in general.
 
 #### CODING SKILLS:
 
-Languages: Python, Java, C, R
-RDBMS: SQL
-Platforms/Tools: AWS, Docker, Kubernetes
-Libraries: SciPy, NumPy, Pandas, Scikit-learn, Statsmodels, Selenium, PyTorch
+Languages: Python, Java, C, R \
+RDBMS: SQL \
+Platforms/Tools: AWS, Docker, Kubernetes \
+Libraries: SciPy, NumPy, Pandas, Scikit-learn, Statsmodels, Selenium, PyTorch \
 Paradigms: OOP/SOLID
 
 #### ACADEMIC DISCIPLINES:
 
-Computer Science (primary focus in software engineering and data science)
+Computer Science (primary focus in software engineering and data science) \
 Mathematical Sciences (focus on financial applications)
 
 
