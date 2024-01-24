@@ -1,8 +1,9 @@
+![My Profile Picture](Profile elements/pfp1.jpg)
 ### Dennis Kim (김인현)
 _M.Sc in Computer Science, DePaul University \
 M.Sc in Mathematical Sciences, NYU_
 
-![My Profile Picture](Profile elements/pfp.jpg)
+
 
 ---
 **Success is no accident. It is hard work, perseverance, learning, studying, sacrifice, and most of all, love of what you are doing or learning to do.** - Pelé
