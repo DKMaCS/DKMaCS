@@ -1,4 +1,5 @@
-![My Profile Picture](profile_elements/pfp1.jpg)
+<img src="profile_elements/pfp1.jpg" alt="Image" width="200"> 
+
 ### Dennis Kim (김인현)
 _M.Sc in Computer Science, DePaul University \
 M.Sc in Mathematical Sciences, NYU_
