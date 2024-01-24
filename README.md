@@ -26,8 +26,8 @@ My desired PhD goals are to further explore existing data science techniques, bo
 adding additional tools to the contemporary decision-maker's toolbelt. I aim to do the latter by expanding the capabilities
 of reinforcement learning methodologies. RL is a personally fascinating approach and perspective to problem-solving, 
 specifically those that are multiperiod in nature. Current approaches draw from a variety of disciplines like math, CS,
-and statistics. Unsurprisingly, I have focused my academic work on that material (please see skills below). Ultimately,
-I hope to make policy discovery more versatile across dynamic environments/data feeds and improve the 
+and statistics. Unsurprisingly, I have focused my academic work on that material (please see skills/academics below). 
+Ultimately, I hope to make policy discovery more versatile across dynamic environments/data feeds and improve the 
 exploration-exploitation problem. 
 
 Otherwise, I enjoy cooking (slow-cooking/neopolitan style pizzas), learning to skateboard and play bass guitar, 
