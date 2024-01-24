@@ -3,11 +3,11 @@
 _M.Sc in Computer Science, DePaul University \
 M.Sc in Mathematical Sciences, NYU_
 
-    **"Success is no accident. It is hard work, perseverance, learning, studying ,sacrifice, and most of all, love of what you are doing or learning to do."** 
+    **Success is no accident. It is hard work, perseverance, learning, studying ,sacrifice, and most of all, love of what you are doing or learning to do.** 
 
     - Pelé
 
-    **"Success is nothing more than a few disciplines, practiced every single day."**
+    **Success is nothing more than a few disciplines, practiced every single day.**
 
     - Mel Robbins
 
