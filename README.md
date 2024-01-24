@@ -43,7 +43,7 @@ Paradigms: OOP/SOLID
 #### ACADEMICS:
 
 Coursework: Machine Learning, Neural Networks, Big Data Mining, Linear Algebra, Real Analysis, Natural Language
-Processing, Stochastic Modeling, Quantitative Trading & Algorithmic Strategies
+Processing, Stochastic Modeling, Quantitative Trading & Algorithmic Strategies, Statistical Inference & Regression
 
 #### OTHER:
 
