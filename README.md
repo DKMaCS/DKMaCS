@@ -13,7 +13,7 @@ you are doing or learning to do.** - Pelé
 
 ---
 
-ABOUT ME:
+#### ABOUT ME:
 
 Hello, my name is Dennis Kim, and I was born and raised in Houston, TX. I am an aspiring quantitative researcher, 
 seeking positions with firms that share my appreciation for quantitative rigor.
@@ -33,7 +33,7 @@ exploration-exploitation problem.
 Otherwise, I enjoy cooking (slow-cooking/neopolitan style pizzas), learning to skateboard and play bass guitar, 
 walking my dog (Bert), and learning in general. 
 
-CODING SKILLS:
+#### CODING SKILLS:
 
 Languages: Python, Java, C, R
 RDBMS: SQL
@@ -41,7 +41,7 @@ Platforms/Tools: AWS, Docker, Kubernetes
 Libraries: SciPy, NumPy, Pandas, Scikit-learn, Statsmodels, Selenium, PyTorch
 Paradigms: OOP/SOLID
 
-ACADEMIC DISCIPLINES:
+#### ACADEMIC DISCIPLINES:
 
 Computer Science (primary focus in software engineering and data science)
 Mathematical Sciences (focus on financial applications)
