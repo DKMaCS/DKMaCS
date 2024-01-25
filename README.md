@@ -32,7 +32,7 @@ Ultimately, I hope to make policy discovery more versatile across dynamic enviro
 exploration-exploitation problem. 
 
 Otherwise, I enjoy cooking (slow-cooking/neopolitan style pizzas), learning to skateboard and play bass guitar, 
-walking my dog (Bert), and learning in general. 
+walking my dog [Bert](https://github.com/DKMaCS#bert), and learning in general. 
 
 #### CODING SKILLS:
 
