@@ -38,7 +38,7 @@ walking my dog (Bert), and learning in general.
 
 Languages: Python, Java, C, R, SQL \
 Platforms/Tools: AWS, Docker, Kubernetes, PyCharm, IntelliJ \
-Libraries: SciPy, NumPy, Pandas, Scikit-learn, Statsmodels, Selenium, PyTorch \
+Libraries: SciPy, NumPy, Pandas, Scikit-learn, Statsmodels, Selenium, PyTorch, statistics, pymc3 \
 Paradigms: OOP/SOLID
 
 #### ACADEMICS:
