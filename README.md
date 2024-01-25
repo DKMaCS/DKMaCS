@@ -4,6 +4,8 @@
 _MS in Computer Science, DePaul University \
 MS in Mathematical Sciences, NYU_
 
+[Resume](https://dkmacs.github.io/)
+
 ---
 
 **Life isn't about finding yourself. It's about creating yourself.** - George Bernard Shaw
