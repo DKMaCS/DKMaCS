@@ -6,8 +6,7 @@ MS in Mathematical Sciences, NYU_
 
 ---
 
-**Success is no accident. It is hard work, perseverance, learning, studying, sacrifice, and most of all, love of what 
-you are doing or learning to do.** - Pelé
+**Life isn't about finding yourself. It's about creating yourself** - Pelé
 
 **[Success is nothing more than a few disciplines, practiced every single day.](https://twitter.com/melrobbins/status/943992733924057088/)** - Mel Robbins
 
