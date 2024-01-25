@@ -36,7 +36,7 @@ walking my dog (Bert), and learning in general.
 #### CODING SKILLS:
 
 Languages: Python, Java, C, R, SQL \
-Platforms/Tools: AWS, Docker, Kubernetes \
+Platforms/Tools: AWS, Docker, Kubernetes, PyCharm, IntelliJ \
 Libraries: SciPy, NumPy, Pandas, Scikit-learn, Statsmodels, Selenium, PyTorch \
 Paradigms: OOP/SOLID
 
