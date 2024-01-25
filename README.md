@@ -6,7 +6,7 @@ MS in Mathematical Sciences, NYU_
 
 ---
 
-**Life isn't about finding yourself. It's about creating yourself** - George Bernard Shaw
+**Life isn't about finding yourself. It's about creating yourself.** - George Bernard Shaw
 
 **[Success is nothing more than a few disciplines, practiced every single day.](https://twitter.com/melrobbins/status/943992733924057088/)** - Mel Robbins
 
