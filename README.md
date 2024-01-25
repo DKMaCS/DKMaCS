@@ -51,6 +51,9 @@ GAAP/IFRS conventions
 
 CFA Charterholder (2019 designation)
 
+#### BERT:
+
+<img src="profile_elements/bert.jpg" alt="Image" width="200">
 
 
 <!--
