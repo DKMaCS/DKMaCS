@@ -15,7 +15,7 @@ MS in Mathematical Sciences, NYU_
 #### ABOUT ME:
 
 Hello, my name is Dennis Kim, and I was born and raised in Houston, TX. I am an aspiring quantitative researcher, 
-seeking positions with firms that share my appreciation for quantitative rigor.
+seeking internship positions with firms that share my appreciation for quantitative rigor.
 
 My interest in the space developed after the 2008 crisis, which introduced me to the fascinating world of 
 decision sciences where I have focused much of my academic work to date. Briefly speaking, I started my career in oil &
