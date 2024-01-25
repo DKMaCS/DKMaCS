@@ -20,7 +20,8 @@ seeking positions with firms that share my appreciation for quantitative rigor.
 
 My interest in the space developed after the 2008 crisis, which introduced me to the fascinating world of 
 decision sciences where I have focused much of my academic work to date. Briefly speaking, I started my career in oil &
-gas, migrated to commercial banking and wealth management, and now find myself in pursuit of a PhD (program TBD). 
+gas, migrated to commercial banking and wealth management before returning to school, and now find myself in pursuit 
+of a PhD (program TBD). 
 
 My desired PhD goals are to further explore existing data science techniques, both qualitative and quantitative, while
 adding additional tools to the contemporary decision-maker's toolbelt. I aim to accomplish the latter by expanding the capabilities
