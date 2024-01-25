@@ -1,10 +1,8 @@
 <img src="profile_elements/pfp1.jpg" alt="Image" width="200">
 
-## Dennis Kim (김인현), CFA
+## Dennis Kim (김인현), CFA [Resume](https://dkmacs.github.io/)
 _MS in Computer Science, DePaul University \
 MS in Mathematical Sciences, NYU_
-
-[Resume](https://dkmacs.github.io/)
 
 ---
 
