@@ -1,6 +1,6 @@
 <img src="profile_elements/pfp1.jpg" alt="Image" width="200">
 
-## Dennis Kim (김인현)
+## Dennis Kim (김인현), CFA
 _MS in Computer Science, DePaul University \
 MS in Mathematical Sciences, NYU_
 
