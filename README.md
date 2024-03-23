@@ -1,8 +1,8 @@
 <img src="profile_elements/pfp1.jpg" alt="Image" width="200">
 
 ## Dennis Kim (김인현), CFA 
-[Resume](https://dkmacs.github.io/) 
-[Wyzant]('https://www.wyzant.com/Tutors/dktutorsforfun'/)
+[Resume](https://dkmacs.github.io/)
+[Wyzant](https://www.wyzant.com/Tutors/dktutorsforfun/)
 
 _MS in Computer Science, DePaul University \
 MS in Mathematical Sciences, NYU_
