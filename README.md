@@ -4,8 +4,9 @@
 [Resume](https://dkmacs.github.io/)
 [Wyzant](https://www.wyzant.com/Tutors/dktutorsforfun/)
 
-_MS in Computer Science, DePaul University \
-MS in Mathematical Sciences, NYU_
+_PhD Candidate in Computer Science, Colorado State University \
+MS in Mathematical Sciences, NYU \
+MS in Computer Science, DePaul University_
 
 ---
 
