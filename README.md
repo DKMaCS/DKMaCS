@@ -14,6 +14,8 @@ MS in Computer Science, DePaul University_
 
 **[Success is nothing more than a few disciplines, practiced every single day.](https://twitter.com/melrobbins/status/943992733924057088/)** - Mel Robbins
 
+**Experimentation if the least arrogant method of gaining knowledge.** - Isaac Asimov
+
 ---
 
 #### ABOUT ME:
